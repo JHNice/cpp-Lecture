@@ -1,84 +1,67 @@
 ﻿#include <iostream>
 using namespace std;
 
-namespace Client
+class Soldier
 {
-	int port = 1557;
-
-	void Send()
-	{
-		cout << "the Client sends data..." << endl;
-	}
-}
-
-namespace Server
-{
-	int port = 488484;
-
-	void Send()
-	{
-		cout << "the Server sends data..." << endl;
-	}
-}
-
-using namespace Client;
-
-class GameObject
-{
-#pragma region 접근 지정자
-	// 클래스 내부에 포함되어 있는 속성에 접근 범위를
-	// 제한하는 지정자입니다.
-
-	// public : 클래스 내부와 자기가 상속하고 있는 클래스 그리고
-	//			클래스 외부에서도 접근을 허용하는 지정자입니다.
-	
-	// protected : 클래스 내부와 자기가 상속하고 있는 클래스까지만
-	//             접근을 허용하는 지정자입니다.
-
-	// private : 클래스 내부까지만 접근을 허용하는 지정자입니다.
-
-#pragma endregion
 private:
-	int x = 0;
-	int y = 0;
-	int z = 0;
-protected:
-	const char* name;
+	int health = 0;
+	int defense = 0;
+
+	static int count;
+
 public:
-	void Initialize()
+
+	Soldier()
 	{
-		x = 0;
-		y = 0;
-		z = 0;
+		cout << "soldier 생성" << endl;
+	}
+	~Soldier()
+	{
+		count++;
+		cout << "soldier 사망" << endl << "Kill : " << count << endl;
 	}
 };
 
+int Soldier::count = 0;
+
 int main()
 {
-#pragma region 이름 공간
-	// 속성을 구분할 수 있도록 유효 범위를
-	// 설정하는 영역입니다.
+#pragma region 생성자
+	// 클래스의 인스턴스가 생성되는 시점에 자동으로
+	// 호출되는 특수한 멤버 함수입니다.
 
-	// Send(); // using namespace
-	// Server::Send();
+	// 생성자의 경우 객체가 생성될 때 단 한 번만 호출되며,
+	// 생성자는 반환형이 존재하지 않기 때문에 생성자가
+	// 호출되기 전에 객체에 대한 메모리는 할당되지 않습니다.
+
+	// Soldier soldier;
 #pragma endregion
-#pragma region 클래스
-	// 사용자 정의 데이터 유형으로 속성과 함수가 포함되어
-	// 있으며, 클래스를 통해 객체를 생성하여 접근하고 사용
-	// 하는 집합체입니다.
+#pragma region 소멸자
+	// 객체가 소멸될 때 자동으로 실행되는 클래스의
+	// 특수한 멤버 함수입니다.
 
-	// GameObject gameObject;
-	// 
-	// gameObject.Initialize();
-	// 
-	// cout << "Size of GameObject : " << sizeof(GameObject) << endl;
+	// 소멸자는 객체가 메모리에서 해제될 때 단 한 번만
+	// 호출되며, 소멸자에는 매개 변수를 생성하여 사용할
+	// 수 없습니다.
 
-	// 클래스의 경우 클래스 내부에 있는 변수는 클래스의
-	// 메모리 영역에 포함되지만, 정적 변수와 함수의
-	// 메모리는 클래스 영역에 포함되지 않습니다.
+	//	Soldier *adress[3];
+	//	
+	//	for (int i = 0;i < 3;i++)
+	//	{
+	//		adress[i] = nullptr;
+	//		adress[i] = new Soldier;
+	//		delete adress[i];
+	//	}
+
 #pragma endregion
+#pragma region 얕은 복사
+	// 객체를 복사할 때 주소 값을 복사하여 같은
+	// 메모리 공간을 가리키게 하는 복사입니다.
 
+	// 얕은 복사의 경우 같은 객체가 서로 같은 메모리 공간을
+	// 참조하고 있기 때문에 하나의 객체로 값을 변경하게 되면
+	// 서로 참조된 객체도 함께 영향을 받습니다.
+#pragma endregion
 
 	return 0;
 }
-	// 26.5.14 숙제 기본 매개 변수 노션에 정리해서 올리기기

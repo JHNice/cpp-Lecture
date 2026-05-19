@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B747063-946D-4C24-AD6D-760E59EC8C30}|Class 4th Inheritance\\Class 4th Inheritance.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 4th Inheritance\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B747063-946D-4C24-AD6D-760E59EC8C30}|Class 4th Inheritance\\Class 4th Inheritance.vcxproj|solutionrelative:Class 4th Inheritance\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641F3EAF-971E-4F74-B481-D4D9E7186303}|Class 3th Constructor \u0026 Destructor\\Class 3th Constructor \u0026 Destructor.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 3th Constructor \u0026 Destructor\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{641F3EAF-971E-4F74-B481-D4D9E7186303}|Class 3th Constructor \u0026 Destructor\\Class 3th Constructor \u0026 Destructor.vcxproj|solutionrelative:Class 3th Constructor \u0026 Destructor\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{373D9248-8AB5-4258-9F43-D0A50AC3FE9B}|Class1th Stream\\Class1th Stream.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class1th Stream\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{373D9248-8AB5-4258-9F43-D0A50AC3FE9B}|Class1th Stream\\Class1th Stream.vcxproj|solutionrelative:Class1th Stream\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -25,11 +33,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 4th Inheritance\\Source.cpp",
+              "RelativeDocumentMoniker": "Class 4th Inheritance\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 4th Inheritance\\Source.cpp",
+              "RelativeToolTip": "Class 4th Inheritance\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-19T10:33:06.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 3th Constructor \u0026 Destructor\\Source.cpp",
+              "RelativeDocumentMoniker": "Class 3th Constructor \u0026 Destructor\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 3th Constructor \u0026 Destructor\\Source.cpp",
+              "RelativeToolTip": "Class 3th Constructor \u0026 Destructor\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-19T09:36:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class2th Class\\Source.cpp",
               "RelativeDocumentMoniker": "Class2th Class\\Source.cpp",
@@ -37,12 +71,11 @@
               "RelativeToolTip": "Class2th Class\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-15T09:08:33.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T09:08:33.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "iostream",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\iostream",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\iostream",
@@ -50,12 +83,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\iostream",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-14T10:13:23.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T10:13:23.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class1th Stream\\Source.cpp",
               "RelativeDocumentMoniker": "Class1th Stream\\Source.cpp",
@@ -63,8 +95,7 @@
               "RelativeToolTip": "Class1th Stream\\Source.cpp",
               "ViewState": "AgIAADQAAAAAAAAAAAAAAD0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-14T09:39:32.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T09:39:32.174Z"
             },
             {
               "$type": "Document",
@@ -74,7 +105,7 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-14T08:56:28.622Z",
               "EditorCaption": ""

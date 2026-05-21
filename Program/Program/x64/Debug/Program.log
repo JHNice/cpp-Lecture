@@ -1,2 +1,4 @@
-﻿  Program.cpp
-  Program.vcxproj -> E:\git\cpp-Lecture\Program\x64\Debug\Program.exe
+﻿  Diamond.cpp
+C:\Users\Administrator\Desktop\ljh\cpp-Lecture\Program\Program\Diamond.cpp(5,10): error C2600: 'Diamond::Diamond': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+  Program.cpp
+  코드를 생성하고 있습니다...

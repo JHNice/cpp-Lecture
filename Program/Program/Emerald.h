@@ -7,5 +7,7 @@ public:
 	Emerald();
 
 	void Describe();
+
+	void Promote();
 };
 

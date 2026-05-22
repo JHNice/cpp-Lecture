@@ -2,6 +2,7 @@
 #include "Publisher.h"
 #include "Diamond.h"
 #include "Emerald.h"
+#include "Platinum.h"
 
 using namespace std;
 
@@ -26,11 +27,60 @@ int main()
 #pragma region 오버라이딩
 	// 상위 클래스의 함수를 하위 클래스에서 재정의하여 사용하는 방법입니다.
 
-	Diamond diamond;
-	Emerald emerald;
-	emerald.Describe();
-	diamond.Describe();
+	// Diamond diamond;
+	// Emerald emerald;
+	// emerald.Describe();
+	// diamond.Describe();
 
+#pragma endregion
+#pragma region 가상 함수
+	// 실행 시간에 상위 클래스에 대한 참조로
+	// 하위 클래스에 재정의된 함수를 호출하는 함수입니다.
+
+	Material* material = new Diamond;
+	material->Describe();
+	delete material;
+
+	material = new Emerald;
+	material->Describe();
+	delete material;
+
+	int tier;
+	while (1)
+	{
+		cout << "숫자를 입력하세요 : ";
+		cin >> tier;
+
+		if (tier > 0 && tier < 4)
+		{
+			switch (tier)
+			{
+			case 1:
+				material = new Diamond;
+				material->Promote();
+				delete material;
+				break;
+			case 2:
+				material = new Emerald;
+				material->Promote();
+				delete material;
+				break;
+			case 3:
+				material = new Platinum;
+				material->Promote();
+				delete material;
+				break;
+			}
+			break;
+		}
+	}
+	
+
+	
+
+	// 가상 함수의 경우 가상 함수 테이블 사용하여 호출되는
+	// 함수를 실행 시간에 결정하며, 정적으로 선언된 함수는
+	// 가상 함수로 선언할 수 없습니다.
 #pragma endregion
 
 

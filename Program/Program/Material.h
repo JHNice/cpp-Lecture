@@ -6,6 +6,9 @@ protected:
 	float weight;
 	float hardness;
 	float transparency;
+	int tier;
 public:
 	void Describe();
+
+	virtual void Promote();
 };

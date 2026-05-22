@@ -6,5 +6,7 @@ public:
 	Diamond();
 
 	void Describe();
+
+	void Promote();
 };
 

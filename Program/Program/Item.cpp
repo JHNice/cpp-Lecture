@@ -5,5 +5,10 @@ Item::Item()
 {
 	name = "Item";
 
-	cout << "Name : "<< name << endl;
+	cout << name << "생성됨." << endl;
+}
+
+Item::~Item()
+{
+	cout << name << "제거됨." << endl;
 }

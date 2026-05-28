@@ -1,62 +1,21 @@
 ﻿#include "stdafx.h"
-#include "Item.h"
-#include "BFSword.h"
-#include "Pickaxe.h"
-
+#include "Position.h"
 int main()
 {
-#pragma region 추상화
-	// 복잡한 시스템이나 객체의 내부에 있는 세부 사항을 숨기고,
-	// 필요한 부분만 외부에서 사용할 수 있도록 단순화시키는 작업입니다.
+#pragma region 캡슐화
+	// 객체의 속성과 기능을 하나의 단위로 합친 다음 외부에서
+	// 필요한 정보만 접근할 수 있도록 제한하는 기능입니다.
 
-	// Item* item = new BFSword();
-	// 
-	// item->Use();
-	// 
-	// delete item;
-	// 
-	// item = new Pickaxe();
-	// 
-	// item->Use();
-	// 
-	// delete item;
+	Position point1D(1, 0);
+	Position point2D(0, 1);
 
-	Item* Inventory[5] = {nullptr, };
 
-	Inventory[0] = new BFSword();
-	Inventory[1] = new Pickaxe();
-	Inventory[0]->Use();
-	Inventory[1]->Use();
-
-	for (int i = 0; i < 5;i++)
-	{
-		cout << "[" << i << "]번 슬롯";
-
-		if (Inventory[i] != nullptr)
-		{
-			Inventory[i]->Use();
-		}
-		else
-		{
-			cout << "아이템이 존재하지 않습니다." << endl;
-		}
-	}
-
-	for (int i = 0;i < 5;i++)
-	{
-		if (Inventory[i] != nullptr)
-		{
-			delete Inventory[i];
-		}
-	}
-
-	// 추상 클래스는 정의되어 있지 않은 함수가 있으므로,
-	// 객체를 생성할 수 없습니다.
-
+	Position direction1 = point1D + point2D;
+	Position direction2 = point1D - point2D;
+	Position direction3 = point1D * point2D;
+	Position direction4 = point1D / point2D;
 
 #pragma endregion
-
-
 
 	return 0;
 }

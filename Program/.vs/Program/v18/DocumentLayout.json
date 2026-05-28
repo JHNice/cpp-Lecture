@@ -3,43 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Diamond.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Emerald.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Publisher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|solutionrelative:Class 6th Abstract\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Pickaxe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|solutionrelative:Class 6th Abstract\\Pickaxe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|solutionrelative:Class 6th Abstract\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\BFSword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25727F22-174E-4169-84E2-67BB45EE4757}|Class 6th Abstract\\Class 6th Abstract.vcxproj|solutionrelative:Class 6th Abstract\\BFSword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\__msvc_string_view.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Publisher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Emerald.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Diamond.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Publisher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Publisher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,20 +73,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-21T09:10:34.871Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Position.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Position.cpp",
+              "RelativeDocumentMoniker": "Program\\Position.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Position.cpp",
+              "RelativeToolTip": "Program\\Position.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T10:03:35.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Position.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Position.h",
+              "RelativeDocumentMoniker": "Program\\Position.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Position.h",
+              "RelativeToolTip": "Program\\Position.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-28T10:02:14.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BFSword.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\BFSword.cpp",
+              "RelativeDocumentMoniker": "Class 6th Abstract\\BFSword.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\BFSword.cpp",
+              "RelativeToolTip": "Class 6th Abstract\\BFSword.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:35:11.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Item.cpp",
+              "RelativeDocumentMoniker": "Class 6th Abstract\\Item.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Item.cpp",
+              "RelativeToolTip": "Class 6th Abstract\\Item.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:35:06.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pickaxe.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Pickaxe.cpp",
+              "RelativeDocumentMoniker": "Class 6th Abstract\\Pickaxe.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Pickaxe.cpp",
+              "RelativeToolTip": "Class 6th Abstract\\Pickaxe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:34:55.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Source.cpp",
+              "RelativeDocumentMoniker": "Class 6th Abstract\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Source.cpp",
+              "RelativeToolTip": "Class 6th Abstract\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-28T09:27:39.249Z",
               "EditorCaption": ""
             },
             {
@@ -75,12 +177,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\__msvc_string_view.hpp",
               "ViewState": "AgIAACUCAAAAAAAAAAD4vy4CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-21T10:30:30.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T10:30:30.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Diamond.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.cpp",
               "RelativeDocumentMoniker": "Program\\Diamond.cpp",
@@ -88,12 +189,11 @@
               "RelativeToolTip": "Program\\Diamond.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-21T09:31:37.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:31:37.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Emerald.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.cpp",
               "RelativeDocumentMoniker": "Program\\Emerald.cpp",
@@ -101,12 +201,11 @@
               "RelativeToolTip": "Program\\Emerald.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-21T09:21:53.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:21:53.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Diamond.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.h",
               "RelativeDocumentMoniker": "Program\\Diamond.h",
@@ -114,12 +213,11 @@
               "RelativeToolTip": "Program\\Diamond.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-21T09:20:47.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:20:47.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Emerald.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.h",
               "RelativeDocumentMoniker": "Program\\Emerald.h",
@@ -127,12 +225,11 @@
               "RelativeToolTip": "Program\\Emerald.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-21T09:20:06.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:20:06.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Material.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.cpp",
               "RelativeDocumentMoniker": "Program\\Material.cpp",
@@ -140,25 +237,22 @@
               "RelativeToolTip": "Program\\Material.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-21T09:15:47.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:15:47.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Material.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.h",
               "RelativeDocumentMoniker": "Program\\Material.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.h",
               "RelativeToolTip": "Program\\Material.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-21T09:14:40.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:14:40.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Publisher.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.h",
               "RelativeDocumentMoniker": "Program\\Publisher.h",
@@ -166,12 +260,11 @@
               "RelativeToolTip": "Program\\Publisher.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-21T09:10:39.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:10:39.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Publisher.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.cpp",
               "RelativeDocumentMoniker": "Program\\Publisher.cpp",
@@ -179,8 +272,7 @@
               "RelativeToolTip": "Program\\Publisher.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-21T09:10:37.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:10:37.699Z"
             }
           ]
         }

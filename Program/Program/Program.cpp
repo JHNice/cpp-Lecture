@@ -1,34 +1,30 @@
 ﻿#include "stdafx.h"
-
-template<typename T>
-bool Same(T left, T right)
-{
-	if (left == right)
-	{
-		cout << true << endl;
-		return true;
-	}
-	else
-	{
-		cout << false << endl;
-		return false;
-	}
-}
+#include "Image.h"
 
 int main()
 {
-#pragma region 템플릿
-	// 데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터
-	// 형식을 가질 수 있는 기술에 중점을 두어 재사용성을 높일 수
-	// 있는 기능입니다.
+#pragma region 스마트 포인터
+	// 포인터를 사용하는 동시에 자동으로 메모리 관리를 해주며,
+	// 경계 확인과 같은 추가 기능을 제고해주는 포인터입니다.
 
-	// Same('A', 'A');
-	// Same(5, 6);
+	int* p = nullptr;
+	{
+		int* r = new int;
+		p = r;
+	}
+	delete p;
+
+#pragma region unique pointer
+	// 특정한 객체를 하나의 스마트 포인터만 가리킬 수
+	// 있도록 되어 있는 포인터입니다.
+
+	unique_ptr<Image> image = make_unique<Image>();
+
+	unique_ptr<Image> sprite = std::move(image); // 유니크는 하나만 가리킬 수 있음, std::move로 소유권 이전
 
 #pragma endregion
-#pragma region 템플릿 특수화
-	// 특정 자료형에 대해 다르게 처리하고 싶은 경우
-	// 특정한 자료형만 다른 형식으로 동작시키는 기능입니다.
+
+
 #pragma endregion
 
 	return 0;

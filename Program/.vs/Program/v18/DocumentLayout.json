@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6B20C2A-1C63-414D-9974-D48E395A8A61}|Program\\Program.vcxproj|solutionrelative:Program\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A807F032-042C-4B3B-99AF-93691710E757}|Class8th Template\\Class8th Template.vcxproj|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class8th Template\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A807F032-042C-4B3B-99AF-93691710E757}|Class8th Template\\Class8th Template.vcxproj|solutionrelative:Class8th Template\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -88,6 +80,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Publisher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -107,7 +107,7 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-21T09:10:34.871Z",
               "IsPinned": true,
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "Image.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Image.cpp",
               "RelativeDocumentMoniker": "Program\\Image.cpp",
@@ -123,12 +123,11 @@
               "RelativeToolTip": "Program\\Image.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T10:28:07.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T10:28:07.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "Image.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Image.h",
               "RelativeDocumentMoniker": "Program\\Image.h",
@@ -136,12 +135,11 @@
               "RelativeToolTip": "Program\\Image.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-01T10:27:38.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T10:27:38.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Factorial.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class8th Template\\Factorial.cpp",
               "RelativeDocumentMoniker": "Class8th Template\\Factorial.cpp",
@@ -149,12 +147,11 @@
               "RelativeToolTip": "Class8th Template\\Factorial.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T10:04:21.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T10:04:21.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class8th Template\\Source.cpp",
               "RelativeDocumentMoniker": "Class8th Template\\Source.cpp",
@@ -162,12 +159,11 @@
               "RelativeToolTip": "Class8th Template\\Source.cpp",
               "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T10:02:34.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T10:02:34.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Position.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 7th encapsulation\\Position.cpp",
               "RelativeDocumentMoniker": "Class 7th encapsulation\\Position.cpp",
@@ -179,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Position.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 7th encapsulation\\Position.h",
               "RelativeDocumentMoniker": "Class 7th encapsulation\\Position.h",
@@ -191,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 7th encapsulation\\Source.cpp",
               "RelativeDocumentMoniker": "Class 7th encapsulation\\Source.cpp",
@@ -199,12 +195,11 @@
               "RelativeToolTip": "Class 7th encapsulation\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-29T10:02:40.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-29T10:02:40.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\stdafx.h",
               "RelativeDocumentMoniker": "Program\\stdafx.h",
@@ -212,12 +207,11 @@
               "RelativeToolTip": "Program\\stdafx.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-29T09:02:51.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-29T09:02:51.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "BFSword.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\BFSword.cpp",
               "RelativeDocumentMoniker": "Class 6th Abstract\\BFSword.cpp",
@@ -229,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Item.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Item.cpp",
               "RelativeDocumentMoniker": "Class 6th Abstract\\Item.cpp",
@@ -241,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Pickaxe.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Pickaxe.cpp",
               "RelativeDocumentMoniker": "Class 6th Abstract\\Pickaxe.cpp",
@@ -253,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Class 6th Abstract\\Source.cpp",
               "RelativeDocumentMoniker": "Class 6th Abstract\\Source.cpp",
@@ -265,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "__msvc_string_view.hpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\__msvc_string_view.hpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\include\\__msvc_string_view.hpp",
@@ -277,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Diamond.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.cpp",
               "RelativeDocumentMoniker": "Program\\Diamond.cpp",
@@ -289,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Emerald.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.cpp",
               "RelativeDocumentMoniker": "Program\\Emerald.cpp",
@@ -301,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Diamond.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Diamond.h",
               "RelativeDocumentMoniker": "Program\\Diamond.h",
@@ -313,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Emerald.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Emerald.h",
               "RelativeDocumentMoniker": "Program\\Emerald.h",
@@ -325,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Material.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.cpp",
               "RelativeDocumentMoniker": "Program\\Material.cpp",
@@ -337,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Material.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Material.h",
               "RelativeDocumentMoniker": "Program\\Material.h",
@@ -348,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "Publisher.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.h",
               "RelativeDocumentMoniker": "Program\\Publisher.h",
@@ -360,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "Publisher.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ljh\\cpp-Lecture\\Program\\Program\\Publisher.cpp",
               "RelativeDocumentMoniker": "Program\\Publisher.cpp",

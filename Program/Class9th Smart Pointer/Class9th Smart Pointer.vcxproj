@@ -24,6 +24,7 @@
     <ProjectGuid>{5613c411-28c4-4f73-9f78-4f4491fb2096}</ProjectGuid>
     <RootNamespace>Class9thSmartPointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class 9th Smart Pointer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.6.11822.322 stable
+VisualStudioVersion = 18.6.11822.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Program\Program.vcxproj", "{F6B20C2A-1C63-414D-9974-D48E395A8A61}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th Stream", "Class1th Stream\Class1th Stream.vcxproj", "{373D9248-8AB5-4258-9F43-D0A50AC3FE9B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 1th Stream", "Class1th Stream\Class1th Stream.vcxproj", "{373D9248-8AB5-4258-9F43-D0A50AC3FE9B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th Class", "Class2th Class\Class2th Class.vcxproj", "{D260FF4D-B2DB-4C4E-AEBC-BBA11B29FF3C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 2th Class", "Class2th Class\Class2th Class.vcxproj", "{D260FF4D-B2DB-4C4E-AEBC-BBA11B29FF3C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 3th Constructor & Destructor", "Class 3th Constructor & Destructor\Class 3th Constructor & Destructor.vcxproj", "{641F3EAF-971E-4F74-B481-D4D9E7186303}"
 EndProject
@@ -19,11 +19,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 6th Abstract", "Class
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 7th encapsulation", "Class 7th encapsulation\Class 7th encapsulation.vcxproj", "{00228604-135A-4265-9131-222856495326}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class8th Template", "Class8th Template\Class8th Template.vcxproj", "{A807F032-042C-4B3B-99AF-93691710E757}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 8th Template", "Class8th Template\Class8th Template.vcxproj", "{A807F032-042C-4B3B-99AF-93691710E757}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class9th Smart Pointer", "Class9th Smart Pointer\Class9th Smart Pointer.vcxproj", "{5613C411-28C4-4F73-9F78-4F4491FB2096}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 9th Smart Pointer", "Class9th Smart Pointer\Class9th Smart Pointer.vcxproj", "{5613C411-28C4-4F73-9F78-4F4491FB2096}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th Linear Container", "Class10th Linear Container\Class10th Linear Container.vcxproj", "{43064D3D-10EC-4841-BDA1-357AC5B77CAB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 10th Linear Container", "Class10th Linear Container\Class10th Linear Container.vcxproj", "{43064D3D-10EC-4841-BDA1-357AC5B77CAB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 11th Container Adapter", "Class 11th Container Adapter\Class 11th Container Adapter.vcxproj", "{F536DBBF-F65C-44E0-8E0C-B992176C56FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -167,6 +169,18 @@ Global
 		{43064D3D-10EC-4841-BDA1-357AC5B77CAB}.Release|x64.Build.0 = Release|x64
 		{43064D3D-10EC-4841-BDA1-357AC5B77CAB}.Release|x86.ActiveCfg = Release|Win32
 		{43064D3D-10EC-4841-BDA1-357AC5B77CAB}.Release|x86.Build.0 = Release|Win32
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Debug|Any CPU.Build.0 = Debug|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Debug|x64.ActiveCfg = Debug|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Debug|x64.Build.0 = Debug|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Debug|x86.Build.0 = Debug|Win32
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Release|Any CPU.ActiveCfg = Release|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Release|Any CPU.Build.0 = Release|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Release|x64.ActiveCfg = Release|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Release|x64.Build.0 = Release|x64
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Release|x86.ActiveCfg = Release|Win32
+		{F536DBBF-F65C-44E0-8E0C-B992176C56FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
